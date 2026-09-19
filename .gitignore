@@ -1,0 +1,11 @@
+# Windows側だけに置くデータを誤って公開しない
+*.sqlite
+*.sqlite3
+*.db
+*.joblib
+*.pkl
+.env
+.env.*
+vendor/
+__pycache__/
+

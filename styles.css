@@ -3,6 +3,7 @@
 body{margin:0;background:var(--paper);color:var(--ink);font-family:"Segoe UI","Yu Gothic UI",Meiryo,sans-serif}
 header{position:sticky;top:0;z-index:5;background:#102f29;color:white;padding:14px max(16px,calc((100vw - 1050px)/2));display:flex;justify-content:space-between;align-items:center}
 .refresh-panel{display:grid;grid-template-columns:minmax(0,1fr);gap:6px;margin:12px 0 2px;padding:10px 12px;background:#fff;border:1px solid var(--line);border-radius:12px}.refresh-button{display:block;width:100%;border:1px solid var(--green);border-radius:9px;background:var(--green);color:white;padding:11px 12px;font-size:12px;font-weight:800;white-space:nowrap;box-shadow:0 3px 8px rgba(18,83,68,.16)}.refresh-button:active{transform:translateY(1px)}.refresh-panel small{font-size:10px;color:var(--muted);text-align:center}
+.refresh-button:disabled{opacity:.68;cursor:wait}
 .brand{font-weight:800;letter-spacing:1px}.brand span{display:inline-grid;place-items:center;width:28px;height:28px;border:1px solid #8bb7a8;border-radius:8px;margin-right:7px}
 #updated{font-size:10px;color:#b8cdc5}
 main{max-width:1050px;margin:auto;padding:24px 16px;overflow-x:clip}

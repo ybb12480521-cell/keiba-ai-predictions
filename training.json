@@ -1,0 +1,6585 @@
+{
+  "generated_at": "2026-09-26T23:18:45.478165+09:00",
+  "races": [
+    {
+      "race_id": "2026092606040803",
+      "date": "20260926",
+      "course": "中山",
+      "race_no": 3,
+      "race_name": "3R",
+      "surface": "ダート",
+      "distance_m": 1800,
+      "horses": [
+        {
+          "horse_no": 5,
+          "frame_no": 3,
+          "horse_name": "プラチナリーフ",
+          "jockey_name": "ルメール",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "クリソベリル",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 3,
+          "frame_no": 2,
+          "horse_name": "モルスリール",
+          "jockey_name": "戸崎圭太",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ニューイヤーズデイ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 16,
+          "frame_no": 8,
+          "horse_name": "ココル",
+          "jockey_name": "横山和生",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ホッコータルマエ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 8,
+          "frame_no": 4,
+          "horse_name": "ブルーサンタ",
+          "jockey_name": "ミシェル",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ダノンレジェンド",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 15,
+          "frame_no": 8,
+          "horse_name": "ジェイエルバージ",
+          "jockey_name": "田辺裕信",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "デクラレーションオブウォー",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 12,
+          "frame_no": 6,
+          "horse_name": "ゼットターム",
+          "jockey_name": "武藤雅",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ニューイヤーズデイ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 13,
+          "frame_no": 7,
+          "horse_name": "ボスヒッツ",
+          "jockey_name": "江田照男",
+          "sex": "3",
+          "age": 2,
+          "sire_name": "シニスターミニスター",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 14,
+          "frame_no": 7,
+          "horse_name": "アイビーナツユメ",
+          "jockey_name": "木幡巧也",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "Mendelssohn",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 1,
+          "frame_no": 1,
+          "horse_name": "ロイヤルグルーヴ",
+          "jockey_name": "小林美駒",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "サンダースノー",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 6,
+          "frame_no": 3,
+          "horse_name": "ブリッド",
+          "jockey_name": "横山琉人",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "マインドユアビスケッツ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 4,
+          "frame_no": 2,
+          "horse_name": "コパノキラキラ",
+          "jockey_name": "柴田大知",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ルヴァンスレーヴ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 10,
+          "frame_no": 5,
+          "horse_name": "セイトゥゴールド",
+          "jockey_name": "原田和真",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "サリオス",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 7,
+          "frame_no": 4,
+          "horse_name": "スパーキー",
+          "jockey_name": "杉原誠人",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "コパノリッキー",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 9,
+          "frame_no": 5,
+          "horse_name": "ツイストマインド",
+          "jockey_name": "内田博幸",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "マインドユアビスケッツ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 2,
+          "frame_no": 1,
+          "horse_name": "ドナミモザ",
+          "jockey_name": "長浜鴻緒",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "サンダースノー",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 11,
+          "frame_no": 6,
+          "horse_name": "オレガイチバンイイ",
+          "jockey_name": "原優介",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ビッグアーサー",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        }
+      ]
+    },
+    {
+      "race_id": "2026092606040805",
+      "date": "20260926",
+      "course": "中山",
+      "race_no": 5,
+      "race_name": "5R",
+      "surface": "芝",
+      "distance_m": 1800,
+      "horses": [
+        {
+          "horse_no": 12,
+          "frame_no": 7,
+          "horse_name": "ジャロロッソ",
+          "jockey_name": "ルメール",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "シルバーステート",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 10,
+          "frame_no": 6,
+          "horse_name": "ペプチドデバイス",
+          "jockey_name": "横山武史",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "リアルスティール",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 14,
+          "frame_no": 8,
+          "horse_name": "シダモフレイバー",
+          "jockey_name": "戸崎圭太",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "アドマイヤマーズ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 6,
+          "frame_no": 4,
+          "horse_name": "ブンブクチャガマ",
+          "jockey_name": "嶋田純次",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ヤングマンパワー",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 2,
+          "frame_no": 2,
+          "horse_name": "エバーラスティング",
+          "jockey_name": "小林美駒",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "アドマイヤマーズ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 7,
+          "frame_no": 5,
+          "horse_name": "スペーストラベラー",
+          "jockey_name": "菊沢一樹",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "アドマイヤマーズ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 8,
+          "frame_no": 5,
+          "horse_name": "ブーケフォーミー",
+          "jockey_name": "横山琉人",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "エフフォーリア",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 3,
+          "frame_no": 3,
+          "horse_name": "ヴァイスリッター",
+          "jockey_name": "江田照男",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "マインドユアビスケッツ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 5,
+          "frame_no": 4,
+          "horse_name": "ニシノカチオトコ",
+          "jockey_name": "原田和真",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ベンバトル",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 1,
+          "frame_no": 1,
+          "horse_name": "レックスダミアーニ",
+          "jockey_name": "長浜鴻緒",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ハイランドリール",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 4,
+          "frame_no": 3,
+          "horse_name": "フェイマスジャズ",
+          "jockey_name": "杉原誠人",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "シュヴァルグラン",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 13,
+          "frame_no": 8,
+          "horse_name": "サヴィッジブロウ",
+          "jockey_name": "原優介",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "Teofilo",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 9,
+          "frame_no": 6,
+          "horse_name": "ハナミヤビ",
+          "jockey_name": "木幡巧也",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ベンバトル",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 11,
+          "frame_no": 7,
+          "horse_name": "ゾネンバーデン",
+          "jockey_name": "柴田大知",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ウインブライト",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        }
+      ]
+    },
+    {
+      "race_id": "2026092609040804",
+      "date": "20260926",
+      "course": "阪神",
+      "race_no": 4,
+      "race_name": "4R",
+      "surface": "芝",
+      "distance_m": 1600,
+      "horses": [
+        {
+          "horse_no": 4,
+          "frame_no": 3,
+          "horse_name": "ゴウオン",
+          "jockey_name": "岩田望来",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "モーリス",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 3,
+          "frame_no": 2,
+          "horse_name": "ルージュラボルタ",
+          "jockey_name": "松山弘平",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ブリックスアンドモルタル",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 14,
+          "frame_no": 8,
+          "horse_name": "フィオッコローザ",
+          "jockey_name": "高杉吏麒",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "モーリス",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 6,
+          "frame_no": 4,
+          "horse_name": "ブラスバンド",
+          "jockey_name": "坂井瑠星",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "レイデオロ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 2,
+          "frame_no": 2,
+          "horse_name": "ギブリ",
+          "jockey_name": "横山典弘",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ニューイヤーズデイ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 10,
+          "frame_no": 6,
+          "horse_name": "フライウィズユー",
+          "jockey_name": "Ｍ．デム",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "シスキン",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 9,
+          "frame_no": 5,
+          "horse_name": "ポエジア",
+          "jockey_name": "武豊",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ドレフォン",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 1,
+          "frame_no": 1,
+          "horse_name": "テンハッピー",
+          "jockey_name": "鮫島克駿",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ジャンダルム",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 13,
+          "frame_no": 7,
+          "horse_name": "ヒノトリ",
+          "jockey_name": "斎藤新",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "サートゥルナーリア",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 15,
+          "frame_no": 8,
+          "horse_name": "ランゲ",
+          "jockey_name": "富田暁",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "サリオス",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 5,
+          "frame_no": 3,
+          "horse_name": "カフジカニステル",
+          "jockey_name": "古川吉洋",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "シルバーステート",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 12,
+          "frame_no": 7,
+          "horse_name": "モンサンラパージュ",
+          "jockey_name": "吉村誠之",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "シャンハイボビー",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 8,
+          "frame_no": 5,
+          "horse_name": "ウォーターケプリ",
+          "jockey_name": "幸英明",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "サートゥルナーリア",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 11,
+          "frame_no": 6,
+          "horse_name": "ロックウイズミー",
+          "jockey_name": "国分恭介",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "アドマイヤマーズ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 7,
+          "frame_no": 4,
+          "horse_name": "レクリドジョワ",
+          "jockey_name": "田山旺佑",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "エピセンター",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        }
+      ]
+    },
+    {
+      "race_id": "2026092609040805",
+      "date": "20260926",
+      "course": "阪神",
+      "race_no": 5,
+      "race_name": "5R",
+      "surface": "芝",
+      "distance_m": 2000,
+      "horses": [
+        {
+          "horse_no": 10,
+          "frame_no": 6,
+          "horse_name": "ネーロノワール",
+          "jockey_name": "川田将雅",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "キタサンブラック",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 6,
+          "frame_no": 4,
+          "horse_name": "カーティス",
+          "jockey_name": "松山弘平",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "サートゥルナーリア",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 11,
+          "frame_no": 6,
+          "horse_name": "サトノステラ",
+          "jockey_name": "岩田望来",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "サートゥルナーリア",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 2,
+          "frame_no": 2,
+          "horse_name": "レガリアフォリア",
+          "jockey_name": "北村友一",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "エフフォーリア",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 7,
+          "frame_no": 4,
+          "horse_name": "シルクウォード",
+          "jockey_name": "西村淳也",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "エピファネイア",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 14,
+          "frame_no": 8,
+          "horse_name": "レイルジェット",
+          "jockey_name": "斎藤新",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "キズナ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 8,
+          "frame_no": 5,
+          "horse_name": "トップオブドリーム",
+          "jockey_name": "今村聖奈",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "モーリス",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 5,
+          "frame_no": 3,
+          "horse_name": "ベニールラヴニール",
+          "jockey_name": "吉村誠之",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ゴールドシップ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 3,
+          "frame_no": 2,
+          "horse_name": "ゴールデンステーラ",
+          "jockey_name": "石橋脩",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "コントレイル",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 13,
+          "frame_no": 7,
+          "horse_name": "スナークルーベンス",
+          "jockey_name": "富田暁",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ハービンジャー",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 12,
+          "frame_no": 7,
+          "horse_name": "エールヴォル",
+          "jockey_name": "松若風馬",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "サトノクラウン",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 15,
+          "frame_no": 8,
+          "horse_name": "ケイアイヴェネチア",
+          "jockey_name": "田山旺佑",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ダノンスマッシュ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 4,
+          "frame_no": 3,
+          "horse_name": "プラトーローザ",
+          "jockey_name": "小沢大仁",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "サリオス",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 1,
+          "frame_no": 1,
+          "horse_name": "ノーブルキングダム",
+          "jockey_name": "国分恭介",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "エイシンフラッシュ",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 9,
+          "frame_no": 5,
+          "horse_name": "メイショウリベロ",
+          "jockey_name": "森田誠也",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ディスクリートキャット",
+          "slope": {
+            "count": 0,
+            "latest": null,
+            "best_4f": null,
+            "best_3f": null,
+            "best_1f": null,
+            "recent": []
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        }
+      ]
+    },
+    {
+      "race_id": "2026092706040904",
+      "date": "20260927",
+      "course": "中山",
+      "race_no": 4,
+      "race_name": "4R",
+      "surface": "芝",
+      "distance_m": 1200,
+      "horses": [
+        {
+          "horse_no": 7,
+          "frame_no": 4,
+          "horse_name": "ピンクダイアモンド",
+          "jockey_name": "松山弘平",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "カラヴァッジオ",
+          "slope": {
+            "count": 11,
+            "latest": "20260924",
+            "best_4f": 54.6,
+            "best_3f": 39.5,
+            "best_1f": 12.3,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 54.9,
+                  "three_f": 39.6,
+                  "lap1": 12.3
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 58.3,
+                  "three_f": 42.5,
+                  "lap1": 12.8
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 66.8,
+                  "three_f": 48.4,
+                  "lap1": 15.0
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 55.6,
+                  "three_f": 40.2,
+                  "lap1": 12.8
+                }
+              },
+              {
+                "date": "20260911",
+                "times": {
+                  "four_f": 69.0,
+                  "three_f": 50.2,
+                  "lap1": 15.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 8,
+            "latest": "20260923",
+            "best_5f": 90.8,
+            "best_4f": 68.8,
+            "best_1f": 15.2,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 70.1,
+                  "lap1": 15.3
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "five_f": 94.4,
+                  "four_f": 70.5,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 70.7,
+                  "lap1": 16.5
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 90.8,
+                  "four_f": 69.8,
+                  "lap1": 16.0
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 74.6,
+                  "lap1": 17.5
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 4,
+          "frame_no": 3,
+          "horse_name": "ジョワリヴレ",
+          "jockey_name": "岩田望来",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "インディチャンプ",
+          "slope": {
+            "count": 10,
+            "latest": "20260925",
+            "best_4f": 67.9,
+            "best_3f": 48.4,
+            "best_1f": 14.8,
+            "recent": [
+              {
+                "date": "20260925",
+                "times": {
+                  "four_f": 68.0,
+                  "three_f": 50.0,
+                  "lap1": 15.7
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 72.5,
+                  "three_f": 53.0,
+                  "lap1": 17.1
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 73.8,
+                  "three_f": 53.6,
+                  "lap1": 17.7
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 70.8,
+                  "three_f": 51.2,
+                  "lap1": 17.1
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 74.2,
+                  "three_f": 55.2,
+                  "lap1": 17.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 6,
+            "latest": "20260923",
+            "best_5f": 66.4,
+            "best_4f": 51.5,
+            "best_1f": 11.1,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 67.7,
+                  "four_f": 52.5,
+                  "lap1": 11.6
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 66.4,
+                  "four_f": 51.8,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 70.1,
+                  "four_f": 53.0,
+                  "lap1": 11.1
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 68.3,
+                  "four_f": 51.5,
+                  "lap1": 11.3
+                }
+              },
+              {
+                "date": "20260908",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 66.7,
+                  "lap1": 14.4
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 14,
+          "frame_no": 8,
+          "horse_name": "ユーサイコー",
+          "jockey_name": "荻野極",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "フィレンツェファイア",
+          "slope": {
+            "count": 7,
+            "latest": "20260925",
+            "best_4f": 56.5,
+            "best_3f": 41.4,
+            "best_1f": 12.9,
+            "recent": [
+              {
+                "date": "20260925",
+                "times": {
+                  "four_f": 68.2,
+                  "three_f": 49.8,
+                  "lap1": 16.7
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 56.5,
+                  "three_f": 41.4,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 67.4,
+                  "three_f": 50.3,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 65.2,
+                  "three_f": 48.0,
+                  "lap1": 14.7
+                }
+              },
+              {
+                "date": "20260911",
+                "times": {
+                  "four_f": 59.6,
+                  "three_f": 43.5,
+                  "lap1": 13.6
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 2,
+            "latest": "20260917",
+            "best_5f": 65.4,
+            "best_4f": 50.8,
+            "best_1f": 11.5,
+            "recent": [
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 65.4,
+                  "four_f": 50.8,
+                  "lap1": 11.5
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 71.7,
+                  "four_f": 55.2,
+                  "lap1": 12.3
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 9,
+          "frame_no": 5,
+          "horse_name": "ダブルスプリング",
+          "jockey_name": "坂井瑠星",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "アルアイン",
+          "slope": {
+            "count": 16,
+            "latest": "20260926",
+            "best_4f": 54.3,
+            "best_3f": 38.7,
+            "best_1f": 12.0,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 69.2,
+                  "three_f": 50.0,
+                  "lap1": 16.8
+                }
+              },
+              {
+                "date": "20260925",
+                "times": {
+                  "four_f": 65.5,
+                  "three_f": 48.3,
+                  "lap1": 16.4
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 54.8,
+                  "three_f": 40.2,
+                  "lap1": 12.4
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 68.7,
+                  "three_f": 49.1,
+                  "lap1": 15.4
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 64.9,
+                  "three_f": 47.7,
+                  "lap1": 15.8
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 4,
+            "latest": "20260920",
+            "best_5f": 67.8,
+            "best_4f": 52.0,
+            "best_1f": 11.6,
+            "recent": [
+              {
+                "date": "20260920",
+                "times": {
+                  "five_f": 70.5,
+                  "four_f": 54.7,
+                  "lap1": 11.7
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 67.8,
+                  "four_f": 52.0,
+                  "lap1": 11.6
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 71.0,
+                  "four_f": 55.8,
+                  "lap1": 13.0
+                }
+              },
+              {
+                "date": "20260906",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 58.8,
+                  "lap1": 12.7
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 10,
+          "frame_no": 6,
+          "horse_name": "ブランカバローズ",
+          "jockey_name": "鮫島克駿",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "フィレンツェファイア",
+          "slope": {
+            "count": 10,
+            "latest": "20260924",
+            "best_4f": 54.1,
+            "best_3f": 39.2,
+            "best_1f": 12.3,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 54.1,
+                  "three_f": 39.2,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 65.6,
+                  "three_f": 48.2,
+                  "lap1": 16.0
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 56.6,
+                  "three_f": 41.3,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 64.1,
+                  "three_f": 47.8,
+                  "lap1": 16.0
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 57.0,
+                  "three_f": 42.0,
+                  "lap1": 12.3
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 2,
+            "latest": "20260917",
+            "best_5f": 67.5,
+            "best_4f": 52.6,
+            "best_1f": 11.9,
+            "recent": [
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 67.9,
+                  "four_f": 52.6,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 67.5,
+                  "four_f": 53.3,
+                  "lap1": 11.9
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 5,
+          "frame_no": 3,
+          "horse_name": "ミエノヴィヴィッド",
+          "jockey_name": "三浦皇成",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ダノンスマッシュ",
+          "slope": {
+            "count": 12,
+            "latest": "20260926",
+            "best_4f": 55.7,
+            "best_3f": 40.2,
+            "best_1f": 12.4,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 65.8,
+                  "three_f": 48.0,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 56.1,
+                  "three_f": 40.3,
+                  "lap1": 12.4
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 65.3,
+                  "three_f": 47.6,
+                  "lap1": 16.0
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 66.8,
+                  "three_f": 49.6,
+                  "lap1": 16.6
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 66.6,
+                  "three_f": 48.5,
+                  "lap1": 16.0
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 3,
+            "latest": "20260919",
+            "best_5f": 68.7,
+            "best_4f": 54.0,
+            "best_1f": 11.6,
+            "recent": [
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 73.8,
+                  "four_f": 57.2,
+                  "lap1": 11.6
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 68.7,
+                  "four_f": 54.0,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 57.3,
+                  "lap1": 12.2
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 1,
+          "frame_no": 1,
+          "horse_name": "リゼスカーレット",
+          "jockey_name": "小林美駒",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ビッグアーサー",
+          "slope": {
+            "count": 22,
+            "latest": "20260924",
+            "best_4f": 55.9,
+            "best_3f": 40.5,
+            "best_1f": 12.3,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 57.3,
+                  "three_f": 41.5,
+                  "lap1": 12.5
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 64.5,
+                  "three_f": 46.2,
+                  "lap1": 15.5
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 66.2,
+                  "three_f": 48.8,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 58.5,
+                  "three_f": 42.4,
+                  "lap1": 12.3
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "four_f": 66.0,
+                  "three_f": 47.7,
+                  "lap1": 14.8
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 2,
+            "latest": "20260916",
+            "best_5f": 68.7,
+            "best_4f": 53.2,
+            "best_1f": 11.7,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 72.4,
+                  "four_f": 56.0,
+                  "lap1": 11.7
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 68.7,
+                  "four_f": 53.2,
+                  "lap1": 12.0
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 13,
+          "frame_no": 7,
+          "horse_name": "エコロヴィータ",
+          "jockey_name": "菊沢一樹",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ダノンスマッシュ",
+          "slope": {
+            "count": 8,
+            "latest": "20260923",
+            "best_4f": 54.9,
+            "best_3f": 39.1,
+            "best_1f": 12.9,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 67.5,
+                  "three_f": 49.6,
+                  "lap1": 16.6
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 69.4,
+                  "three_f": 50.9,
+                  "lap1": 16.3
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "four_f": 69.5,
+                  "three_f": 50.7,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "four_f": 69.5,
+                  "three_f": 51.4,
+                  "lap1": 16.4
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "four_f": 54.9,
+                  "three_f": 39.1,
+                  "lap1": 12.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 8,
+            "latest": "20260924",
+            "best_5f": 68.8,
+            "best_4f": 53.2,
+            "best_1f": 11.8,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 68.8,
+                  "four_f": 53.2,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "five_f": 79.7,
+                  "four_f": 61.6,
+                  "lap1": 14.3
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 69.1,
+                  "four_f": 54.6,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 71.5,
+                  "four_f": 55.7,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260908",
+                "times": {
+                  "five_f": 81.0,
+                  "four_f": 63.3,
+                  "lap1": 14.6
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 6,
+          "frame_no": 4,
+          "horse_name": "アッパレヤ",
+          "jockey_name": "岩田康誠",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "マテラスカイ",
+          "slope": {
+            "count": 19,
+            "latest": "20260920",
+            "best_4f": 56.3,
+            "best_3f": 40.5,
+            "best_1f": 12.9,
+            "recent": [
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 57.5,
+                  "three_f": 42.6,
+                  "lap1": 13.6
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 69.6,
+                  "three_f": 50.6,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "four_f": 56.3,
+                  "three_f": 41.2,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "four_f": 68.3,
+                  "three_f": 50.5,
+                  "lap1": 16.5
+                }
+              },
+              {
+                "date": "20260911",
+                "times": {
+                  "four_f": 71.1,
+                  "three_f": 52.0,
+                  "lap1": 17.0
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 2,
+            "latest": "20260923",
+            "best_5f": 66.3,
+            "best_4f": 51.7,
+            "best_1f": 12.1,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 66.3,
+                  "four_f": 51.7,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 77.3,
+                  "four_f": 60.7,
+                  "lap1": 14.1
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 8,
+          "frame_no": 5,
+          "horse_name": "ナムラジョン",
+          "jockey_name": "石田拓郎",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "アドミラブル",
+          "slope": {
+            "count": 34,
+            "latest": "20260926",
+            "best_4f": 54.3,
+            "best_3f": 39.7,
+            "best_1f": 12.9,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 68.2,
+                  "three_f": 51.1,
+                  "lap1": 16.5
+                }
+              },
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 54.3,
+                  "three_f": 39.7,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 67.2,
+                  "three_f": 50.1,
+                  "lap1": 16.6
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 67.1,
+                  "three_f": 50.1,
+                  "lap1": 16.7
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 67.9,
+                  "three_f": 49.8,
+                  "lap1": 16.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 8,
+            "latest": "20260923",
+            "best_5f": 67.9,
+            "best_4f": 52.5,
+            "best_1f": 12.1,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 67.2,
+                  "lap1": 14.9
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "five_f": 73.9,
+                  "four_f": 58.5,
+                  "lap1": 13.5
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 67.8,
+                  "lap1": 15.3
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 68.0,
+                  "four_f": 52.5,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 67.9,
+                  "four_f": 53.2,
+                  "lap1": 12.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 15,
+          "frame_no": 8,
+          "horse_name": "リオビーチ",
+          "jockey_name": "武藤雅",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ビーチパトロール",
+          "slope": {
+            "count": 20,
+            "latest": "20260926",
+            "best_4f": 63.9,
+            "best_3f": 46.8,
+            "best_1f": 15.3,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 74.9,
+                  "three_f": 55.0,
+                  "lap1": 18.0
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 66.8,
+                  "three_f": 49.0,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 69.3,
+                  "three_f": 50.4,
+                  "lap1": 16.6
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 69.0,
+                  "three_f": 50.8,
+                  "lap1": 16.9
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 68.1,
+                  "three_f": 49.8,
+                  "lap1": 15.8
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 0,
+            "latest": null,
+            "best_5f": null,
+            "best_4f": null,
+            "best_1f": null,
+            "recent": []
+          }
+        },
+        {
+          "horse_no": 11,
+          "frame_no": 6,
+          "horse_name": "コックコート",
+          "jockey_name": "上里直汰",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "サングレーザー",
+          "slope": {
+            "count": 29,
+            "latest": "20260926",
+            "best_4f": 55.2,
+            "best_3f": 40.3,
+            "best_1f": 13.1,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 82.3,
+                  "three_f": 60.7,
+                  "lap1": 20.3
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 65.4,
+                  "three_f": 48.3,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 75.2,
+                  "three_f": 55.8,
+                  "lap1": 19.5
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 61.5,
+                  "three_f": 45.8,
+                  "lap1": 15.4
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 65.3,
+                  "three_f": 47.9,
+                  "lap1": 15.8
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 2,
+            "latest": "20260924",
+            "best_5f": 67.4,
+            "best_4f": 51.9,
+            "best_1f": 12.0,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 67.4,
+                  "four_f": 51.9,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 71.0,
+                  "four_f": 55.7,
+                  "lap1": 12.2
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 3,
+          "frame_no": 2,
+          "horse_name": "マルジョレーヌ",
+          "jockey_name": "柴田大知",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "オーヴァルエース",
+          "slope": {
+            "count": 13,
+            "latest": "20260919",
+            "best_4f": 55.6,
+            "best_3f": 40.0,
+            "best_1f": 12.5,
+            "recent": [
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 91.6,
+                  "three_f": 64.5,
+                  "lap1": 17.8
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 67.4,
+                  "three_f": 50.2,
+                  "lap1": 16.3
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 56.0,
+                  "three_f": 40.0,
+                  "lap1": 13.3
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "four_f": 72.8,
+                  "three_f": 51.9,
+                  "lap1": 17.5
+                }
+              },
+              {
+                "date": "20260911",
+                "times": {
+                  "four_f": 68.1,
+                  "three_f": 49.9,
+                  "lap1": 15.8
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 4,
+            "latest": "20260924",
+            "best_5f": 69.5,
+            "best_4f": 54.0,
+            "best_1f": 12.2,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 69.5,
+                  "four_f": 54.0,
+                  "lap1": 12.2
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 70.6,
+                  "four_f": 55.3,
+                  "lap1": 14.2
+                }
+              },
+              {
+                "date": "20260902",
+                "times": {
+                  "five_f": 72.1,
+                  "four_f": 55.3,
+                  "lap1": 12.4
+                }
+              },
+              {
+                "date": "20260822",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 77.7,
+                  "lap1": 17.0
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 2,
+          "frame_no": 2,
+          "horse_name": "アイファーティアラ",
+          "jockey_name": "長浜鴻緒",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ヴァンセンヌ",
+          "slope": {
+            "count": 53,
+            "latest": "20260926",
+            "best_4f": 54.9,
+            "best_3f": 39.9,
+            "best_1f": 12.6,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 74.9,
+                  "three_f": 54.3,
+                  "lap1": 18.0
+                }
+              },
+              {
+                "date": "20260925",
+                "times": {
+                  "four_f": 78.3,
+                  "three_f": 57.2,
+                  "lap1": 18.4
+                }
+              },
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 55.7,
+                  "three_f": 40.6,
+                  "lap1": 12.8
+                }
+              },
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 73.0,
+                  "three_f": 53.7,
+                  "lap1": 17.3
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 66.9,
+                  "three_f": 49.7,
+                  "lap1": 16.6
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 1,
+            "latest": "20260909",
+            "best_5f": 70.5,
+            "best_4f": 55.5,
+            "best_1f": 12.5,
+            "recent": [
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 70.5,
+                  "four_f": 55.5,
+                  "lap1": 12.5
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 12,
+          "frame_no": 7,
+          "horse_name": "フレンチネイル",
+          "jockey_name": "佐藤翔馬",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ダノンバラード",
+          "slope": {
+            "count": 19,
+            "latest": "20260923",
+            "best_4f": 56.8,
+            "best_3f": 42.0,
+            "best_1f": 13.3,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 63.5,
+                  "three_f": 47.3,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 56.8,
+                  "three_f": 42.0,
+                  "lap1": 13.3
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 64.2,
+                  "three_f": 47.7,
+                  "lap1": 16.0
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 64.2,
+                  "three_f": 48.1,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "four_f": 66.0,
+                  "three_f": 48.8,
+                  "lap1": 16.2
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 11,
+            "latest": "20260924",
+            "best_5f": 68.4,
+            "best_4f": 52.5,
+            "best_1f": 12.0,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 68.4,
+                  "four_f": 52.5,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 132.3,
+                  "lap1": 31.2
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 69.1,
+                  "four_f": 53.9,
+                  "lap1": 12.5
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 126.2,
+                  "lap1": 31.0
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 71.5,
+                  "four_f": 55.8,
+                  "lap1": 13.0
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "race_id": "2026092706040905",
+      "date": "20260927",
+      "course": "中山",
+      "race_no": 5,
+      "race_name": "5R",
+      "surface": "芝",
+      "distance_m": 2000,
+      "horses": [
+        {
+          "horse_no": 3,
+          "frame_no": 3,
+          "horse_name": "ダイアナマリア",
+          "jockey_name": "ルメール",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "モーリス",
+          "slope": {
+            "count": 7,
+            "latest": "20260923",
+            "best_4f": 53.8,
+            "best_3f": 38.9,
+            "best_1f": 12.2,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 53.8,
+                  "three_f": 38.9,
+                  "lap1": 12.4
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 57.4,
+                  "three_f": 41.6,
+                  "lap1": 12.2
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 57.3,
+                  "three_f": 42.0,
+                  "lap1": 13.2
+                }
+              },
+              {
+                "date": "20260906",
+                "times": {
+                  "four_f": 68.4,
+                  "three_f": 51.2,
+                  "lap1": 17.0
+                }
+              },
+              {
+                "date": "20260903",
+                "times": {
+                  "four_f": 54.5,
+                  "three_f": 40.0,
+                  "lap1": 12.4
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 1,
+            "latest": "20260916",
+            "best_5f": 68.1,
+            "best_4f": 53.0,
+            "best_1f": 11.7,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 68.1,
+                  "four_f": 53.0,
+                  "lap1": 11.7
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 6,
+          "frame_no": 6,
+          "horse_name": "スワーヴバシレウス",
+          "jockey_name": "坂井瑠星",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "キタサンブラック",
+          "slope": {
+            "count": 18,
+            "latest": "20260926",
+            "best_4f": 58.9,
+            "best_3f": 42.9,
+            "best_1f": 13.2,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 60.4,
+                  "three_f": 44.4,
+                  "lap1": 14.5
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 62.7,
+                  "three_f": 46.1,
+                  "lap1": 15.4
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 64.2,
+                  "three_f": 47.0,
+                  "lap1": 15.3
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 62.9,
+                  "three_f": 46.9,
+                  "lap1": 15.1
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 67.8,
+                  "three_f": 49.7,
+                  "lap1": 16.2
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 6,
+            "latest": "20260924",
+            "best_5f": 64.8,
+            "best_4f": 50.0,
+            "best_1f": 11.4,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 64.8,
+                  "four_f": 50.0,
+                  "lap1": 11.4
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 57.0,
+                  "lap1": 13.7
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 68.1,
+                  "four_f": 52.9,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 67.0,
+                  "four_f": 52.3,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260903",
+                "times": {
+                  "five_f": 68.6,
+                  "four_f": 53.9,
+                  "lap1": 12.6
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 10,
+          "frame_no": 8,
+          "horse_name": "リンカーンバローズ",
+          "jockey_name": "武豊",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "キタサンブラック",
+          "slope": {
+            "count": 9,
+            "latest": "20260923",
+            "best_4f": 54.8,
+            "best_3f": 39.6,
+            "best_1f": 12.6,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 54.8,
+                  "three_f": 39.7,
+                  "lap1": 12.7
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 74.5,
+                  "three_f": 55.8,
+                  "lap1": 17.9
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 74.1,
+                  "three_f": 54.6,
+                  "lap1": 18.4
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 77.2,
+                  "three_f": 56.6,
+                  "lap1": 18.7
+                }
+              },
+              {
+                "date": "20260911",
+                "times": {
+                  "four_f": 70.4,
+                  "three_f": 53.1,
+                  "lap1": 17.3
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 9,
+            "latest": "20260919",
+            "best_5f": 66.3,
+            "best_4f": 51.8,
+            "best_1f": 11.3,
+            "recent": [
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 66.3,
+                  "four_f": 51.8,
+                  "lap1": 11.4
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 68.7,
+                  "four_f": 53.5,
+                  "lap1": 11.3
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 93.0,
+                  "four_f": 73.3,
+                  "lap1": 17.2
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 67.2,
+                  "four_f": 52.4,
+                  "lap1": 11.7
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 66.7,
+                  "four_f": 52.7,
+                  "lap1": 12.0
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 7,
+          "frame_no": 7,
+          "horse_name": "ライカホウ",
+          "jockey_name": "戸崎圭太",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "サトノダイヤモンド",
+          "slope": {
+            "count": 14,
+            "latest": "20260926",
+            "best_4f": 55.5,
+            "best_3f": 40.4,
+            "best_1f": 13.0,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 68.8,
+                  "three_f": 51.3,
+                  "lap1": 17.0
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 55.5,
+                  "three_f": 40.4,
+                  "lap1": 13.0
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 74.5,
+                  "three_f": 55.8,
+                  "lap1": 18.9
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 67.7,
+                  "three_f": 50.3,
+                  "lap1": 16.6
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 56.9,
+                  "three_f": 41.8,
+                  "lap1": 13.3
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 10,
+            "latest": "20260923",
+            "best_5f": 65.8,
+            "best_4f": 51.2,
+            "best_1f": 11.8,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 65.8,
+                  "four_f": 51.2,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260922",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 72.7,
+                  "lap1": 17.9
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 76.4,
+                  "lap1": 17.0
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 68.3,
+                  "four_f": 53.7,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 79.9,
+                  "lap1": 17.4
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 1,
+          "frame_no": 1,
+          "horse_name": "タイセイパーシスト",
+          "jockey_name": "横山武史",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ブリックスアンドモルタル",
+          "slope": {
+            "count": 14,
+            "latest": "20260926",
+            "best_4f": 56.2,
+            "best_3f": 41.4,
+            "best_1f": 13.5,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 70.3,
+                  "three_f": 52.0,
+                  "lap1": 17.3
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 69.2,
+                  "three_f": 51.0,
+                  "lap1": 16.8
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 76.0,
+                  "three_f": 56.4,
+                  "lap1": 18.6
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 71.9,
+                  "three_f": 51.7,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 66.1,
+                  "three_f": 48.5,
+                  "lap1": 15.6
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 9,
+            "latest": "20260924",
+            "best_5f": 67.3,
+            "best_4f": 52.1,
+            "best_1f": 11.8,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 67.5,
+                  "four_f": 52.2,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "five_f": 67.3,
+                  "four_f": 52.1,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 67.9,
+                  "lap1": 15.6
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 68.6,
+                  "four_f": 53.4,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 85.2,
+                  "four_f": 66.5,
+                  "lap1": 14.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 4,
+          "frame_no": 4,
+          "horse_name": "テムグリーン",
+          "jockey_name": "鮫島克駿",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "デクラレーションオブウォー",
+          "slope": {
+            "count": 12,
+            "latest": "20260923",
+            "best_4f": 53.9,
+            "best_3f": 38.7,
+            "best_1f": 12.3,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 53.9,
+                  "three_f": 39.5,
+                  "lap1": 12.3
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 56.6,
+                  "three_f": 40.8,
+                  "lap1": 13.4
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 64.5,
+                  "three_f": 47.7,
+                  "lap1": 15.6
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 67.0,
+                  "three_f": 49.2,
+                  "lap1": 16.3
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 56.1,
+                  "three_f": 40.7,
+                  "lap1": 13.5
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 4,
+            "latest": "20260916",
+            "best_5f": 66.8,
+            "best_4f": 52.1,
+            "best_1f": 12.0,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 66.8,
+                  "four_f": 52.1,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 68.4,
+                  "four_f": 54.0,
+                  "lap1": 12.6
+                }
+              },
+              {
+                "date": "20260906",
+                "times": {
+                  "five_f": 73.3,
+                  "four_f": 56.3,
+                  "lap1": 13.0
+                }
+              },
+              {
+                "date": "20260905",
+                "times": {
+                  "five_f": 86.5,
+                  "four_f": 69.0,
+                  "lap1": 16.3
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 9,
+          "frame_no": 8,
+          "horse_name": "エルエシック",
+          "jockey_name": "ミシェル",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ミッキーロケット",
+          "slope": {
+            "count": 17,
+            "latest": "20260921",
+            "best_4f": 55.2,
+            "best_3f": 40.0,
+            "best_1f": 12.6,
+            "recent": [
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 76.7,
+                  "three_f": 56.9,
+                  "lap1": 18.8
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 65.7,
+                  "three_f": 48.1,
+                  "lap1": 16.0
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 65.7,
+                  "three_f": 48.8,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 65.3,
+                  "three_f": 48.4,
+                  "lap1": 16.3
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 65.6,
+                  "three_f": 48.2,
+                  "lap1": 16.7
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 3,
+            "latest": "20260923",
+            "best_5f": 66.7,
+            "best_4f": 51.7,
+            "best_1f": 11.8,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 69.3,
+                  "four_f": 54.4,
+                  "lap1": 12.3
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 66.7,
+                  "four_f": 51.7,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 68.1,
+                  "four_f": 52.6,
+                  "lap1": 12.0
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 2,
+          "frame_no": 2,
+          "horse_name": "ケルンミッチー",
+          "jockey_name": "杉原誠人",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "クリソベリル",
+          "slope": {
+            "count": 19,
+            "latest": "20260919",
+            "best_4f": 55.3,
+            "best_3f": 40.4,
+            "best_1f": 12.9,
+            "recent": [
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 57.5,
+                  "three_f": 42.2,
+                  "lap1": 13.9
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 65.6,
+                  "three_f": 47.9,
+                  "lap1": 15.7
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 60.6,
+                  "three_f": 43.5,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "four_f": 55.3,
+                  "three_f": 40.6,
+                  "lap1": 13.1
+                }
+              },
+              {
+                "date": "20260908",
+                "times": {
+                  "four_f": 65.6,
+                  "three_f": 48.6,
+                  "lap1": 16.0
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 4,
+            "latest": "20260923",
+            "best_5f": 67.5,
+            "best_4f": 52.5,
+            "best_1f": 11.8,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 68.9,
+                  "four_f": 53.6,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 67.5,
+                  "four_f": 52.5,
+                  "lap1": 12.4
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 71.3,
+                  "four_f": 55.4,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 63.6,
+                  "lap1": 14.3
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 8,
+          "frame_no": 7,
+          "horse_name": "テイクユアタイム",
+          "jockey_name": "原優介",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ウィルテイクチャージ",
+          "slope": {
+            "count": 31,
+            "latest": "20260923",
+            "best_4f": 53.7,
+            "best_3f": 40.0,
+            "best_1f": 12.9,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 74.2,
+                  "three_f": 55.1,
+                  "lap1": 18.2
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 58.3,
+                  "three_f": 42.4,
+                  "lap1": 14.4
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 66.2,
+                  "three_f": 49.4,
+                  "lap1": 16.1
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "four_f": 65.0,
+                  "three_f": 47.8,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 65.7,
+                  "three_f": 48.6,
+                  "lap1": 16.3
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 6,
+            "latest": "20260924",
+            "best_5f": 67.0,
+            "best_4f": 52.4,
+            "best_1f": 11.6,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 67.0,
+                  "four_f": 52.4,
+                  "lap1": 11.6
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 67.2,
+                  "four_f": 52.4,
+                  "lap1": 12.3
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 67.7,
+                  "four_f": 53.0,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260903",
+                "times": {
+                  "five_f": 68.4,
+                  "four_f": 53.3,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260830",
+                "times": {
+                  "five_f": 73.0,
+                  "four_f": 57.2,
+                  "lap1": 12.2
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 5,
+          "frame_no": 5,
+          "horse_name": "キセキテキニキテル",
+          "jockey_name": "石田拓郎",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "キセキ",
+          "slope": {
+            "count": 14,
+            "latest": "20260920",
+            "best_4f": 58.8,
+            "best_3f": 42.8,
+            "best_1f": 13.8,
+            "recent": [
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 60.1,
+                  "three_f": 44.9,
+                  "lap1": 15.0
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 65.3,
+                  "three_f": 48.5,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 70.8,
+                  "three_f": 50.9,
+                  "lap1": 16.4
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 69.7,
+                  "three_f": 51.7,
+                  "lap1": 17.5
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 58.8,
+                  "three_f": 42.8,
+                  "lap1": 13.8
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 11,
+            "latest": "20260926",
+            "best_5f": 66.8,
+            "best_4f": 52.1,
+            "best_1f": 12.0,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "five_f": 87.3,
+                  "four_f": 68.5,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 66.8,
+                  "four_f": 52.1,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 67.7,
+                  "four_f": 52.2,
+                  "lap1": 12.3
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 91.2,
+                  "four_f": 71.8,
+                  "lap1": 16.3
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 67.6,
+                  "four_f": 52.9,
+                  "lap1": 12.1
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "race_id": "2026092709040905",
+      "date": "20260927",
+      "course": "阪神",
+      "race_no": 5,
+      "race_name": "5R",
+      "surface": "芝",
+      "distance_m": 1400,
+      "horses": [
+        {
+          "horse_no": 3,
+          "frame_no": 3,
+          "horse_name": "パルスカ",
+          "jockey_name": "横山典弘",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "シスキン",
+          "slope": {
+            "count": 13,
+            "latest": "20260926",
+            "best_4f": 57.4,
+            "best_3f": 41.8,
+            "best_1f": 13.9,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 67.5,
+                  "three_f": 49.2,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 66.0,
+                  "three_f": 47.9,
+                  "lap1": 15.5
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 68.0,
+                  "three_f": 49.6,
+                  "lap1": 16.1
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 66.0,
+                  "three_f": 48.4,
+                  "lap1": 16.1
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "four_f": 68.3,
+                  "three_f": 51.3,
+                  "lap1": 17.2
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 2,
+            "latest": "20260923",
+            "best_5f": 69.6,
+            "best_4f": 53.6,
+            "best_1f": 11.9,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 70.8,
+                  "four_f": 55.8,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 69.6,
+                  "four_f": 53.6,
+                  "lap1": 11.9
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 8,
+          "frame_no": 7,
+          "horse_name": "エターナルバラード",
+          "jockey_name": "北村友一",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ロードカナロア",
+          "slope": {
+            "count": 8,
+            "latest": "20260921",
+            "best_4f": 59.8,
+            "best_3f": 43.2,
+            "best_1f": 14.2,
+            "recent": [
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 64.1,
+                  "three_f": 46.1,
+                  "lap1": 14.2
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 62.4,
+                  "three_f": 46.1,
+                  "lap1": 14.6
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 59.8,
+                  "three_f": 43.2,
+                  "lap1": 14.2
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "four_f": 67.3,
+                  "three_f": 49.5,
+                  "lap1": 16.5
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "four_f": 63.7,
+                  "three_f": 46.7,
+                  "lap1": 15.3
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 4,
+            "latest": "20260923",
+            "best_5f": 65.9,
+            "best_4f": 50.9,
+            "best_1f": 11.3,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 53.5,
+                  "lap1": 11.3
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 65.9,
+                  "four_f": 50.9,
+                  "lap1": 11.7
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 85.6,
+                  "four_f": 68.0,
+                  "lap1": 15.6
+                }
+              },
+              {
+                "date": "20260908",
+                "times": {
+                  "five_f": 82.2,
+                  "four_f": 64.7,
+                  "lap1": 14.4
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 4,
+          "frame_no": 4,
+          "horse_name": "メモリーブック",
+          "jockey_name": "横山和生",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "フィレンツェファイア",
+          "slope": {
+            "count": 18,
+            "latest": "20260923",
+            "best_4f": 55.2,
+            "best_3f": 39.3,
+            "best_1f": 12.6,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 55.2,
+                  "three_f": 39.8,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 60.9,
+                  "three_f": 43.9,
+                  "lap1": 13.4
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 64.9,
+                  "three_f": 47.1,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "four_f": 57.8,
+                  "three_f": 40.9,
+                  "lap1": 12.8
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 66.9,
+                  "three_f": 48.1,
+                  "lap1": 15.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 10,
+            "latest": "20260925",
+            "best_5f": 70.3,
+            "best_4f": 54.8,
+            "best_1f": 11.9,
+            "recent": [
+              {
+                "date": "20260925",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 67.5,
+                  "lap1": 15.2
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 104.3,
+                  "four_f": 81.7,
+                  "lap1": 19.4
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 70.3,
+                  "four_f": 54.8,
+                  "lap1": 11.9
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 87.5,
+                  "four_f": 69.9,
+                  "lap1": 17.5
+                }
+              },
+              {
+                "date": "20260908",
+                "times": {
+                  "five_f": 99.3,
+                  "four_f": 77.6,
+                  "lap1": 17.5
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 1,
+          "frame_no": 1,
+          "horse_name": "クリスレグナム",
+          "jockey_name": "Ｍ．デム",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ハイランドリール",
+          "slope": {
+            "count": 18,
+            "latest": "20260924",
+            "best_4f": 56.4,
+            "best_3f": 41.3,
+            "best_1f": 13.2,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 56.4,
+                  "three_f": 41.3,
+                  "lap1": 13.2
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 66.9,
+                  "three_f": 50.1,
+                  "lap1": 16.0
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 59.8,
+                  "three_f": 44.1,
+                  "lap1": 13.7
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 66.8,
+                  "three_f": 49.8,
+                  "lap1": 16.3
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 71.3,
+                  "three_f": 52.8,
+                  "lap1": 17.0
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 6,
+            "latest": "20260916",
+            "best_5f": 67.8,
+            "best_4f": 53.4,
+            "best_1f": 11.9,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 67.8,
+                  "four_f": 53.4,
+                  "lap1": 12.7
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 69.3,
+                  "four_f": 53.4,
+                  "lap1": 13.0
+                }
+              },
+              {
+                "date": "20260904",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 75.2,
+                  "lap1": 17.0
+                }
+              },
+              {
+                "date": "20260902",
+                "times": {
+                  "five_f": 68.9,
+                  "four_f": 54.1,
+                  "lap1": 11.9
+                }
+              },
+              {
+                "date": "20260829",
+                "times": {
+                  "five_f": 91.2,
+                  "four_f": 71.7,
+                  "lap1": 16.3
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 9,
+          "frame_no": 8,
+          "horse_name": "ノーマンデー",
+          "jockey_name": "斎藤新",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "サートゥルナーリア",
+          "slope": {
+            "count": 8,
+            "latest": "20260923",
+            "best_4f": 52.5,
+            "best_3f": 38.4,
+            "best_1f": 12.2,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 56.0,
+                  "three_f": 40.6,
+                  "lap1": 12.4
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 54.6,
+                  "three_f": 39.4,
+                  "lap1": 12.2
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "four_f": 57.9,
+                  "three_f": 41.9,
+                  "lap1": 13.1
+                }
+              },
+              {
+                "date": "20260906",
+                "times": {
+                  "four_f": 56.8,
+                  "three_f": 40.9,
+                  "lap1": 12.5
+                }
+              },
+              {
+                "date": "20260902",
+                "times": {
+                  "four_f": 52.5,
+                  "three_f": 38.7,
+                  "lap1": 12.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 13,
+            "latest": "20260926",
+            "best_5f": 66.7,
+            "best_4f": 52.8,
+            "best_1f": 12.3,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 64.1,
+                  "lap1": 14.5
+                }
+              },
+              {
+                "date": "20260925",
+                "times": {
+                  "five_f": 85.0,
+                  "four_f": 66.1,
+                  "lap1": 14.9
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 93.8,
+                  "four_f": 73.2,
+                  "lap1": 16.0
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 83.1,
+                  "four_f": 65.4,
+                  "lap1": 15.6
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 94.4,
+                  "four_f": 74.1,
+                  "lap1": 17.5
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 5,
+          "frame_no": 5,
+          "horse_name": "スパイスオブライフ",
+          "jockey_name": "松若風馬",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "キズナ",
+          "slope": {
+            "count": 13,
+            "latest": "20260924",
+            "best_4f": 54.0,
+            "best_3f": 39.1,
+            "best_1f": 13.1,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 54.0,
+                  "three_f": 39.1,
+                  "lap1": 13.1
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 68.4,
+                  "three_f": 49.2,
+                  "lap1": 15.6
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 57.2,
+                  "three_f": 42.3,
+                  "lap1": 13.6
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 69.9,
+                  "three_f": 50.3,
+                  "lap1": 16.3
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 66.3,
+                  "three_f": 48.6,
+                  "lap1": 14.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 4,
+            "latest": "20260916",
+            "best_5f": 67.4,
+            "best_4f": 52.9,
+            "best_1f": 11.9,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 67.4,
+                  "four_f": 52.9,
+                  "lap1": 11.9
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 103.7,
+                  "four_f": 80.7,
+                  "lap1": 18.5
+                }
+              },
+              {
+                "date": "20260901",
+                "times": {
+                  "five_f": 119.3,
+                  "four_f": 93.5,
+                  "lap1": 24.2
+                }
+              },
+              {
+                "date": "20260823",
+                "times": {
+                  "five_f": 125.0,
+                  "four_f": 98.3,
+                  "lap1": 24.6
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 2,
+          "frame_no": 2,
+          "horse_name": "エクシプノス",
+          "jockey_name": "西塚洸二",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ブリックスアンドモルタル",
+          "slope": {
+            "count": 19,
+            "latest": "20260926",
+            "best_4f": 53.8,
+            "best_3f": 39.6,
+            "best_1f": 12.5,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 65.9,
+                  "three_f": 47.4,
+                  "lap1": 14.4
+                }
+              },
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 57.7,
+                  "three_f": 41.6,
+                  "lap1": 12.5
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 65.3,
+                  "three_f": 47.6,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 67.1,
+                  "three_f": 48.2,
+                  "lap1": 14.9
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 69.0,
+                  "three_f": 49.8,
+                  "lap1": 16.0
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 8,
+            "latest": "20260921",
+            "best_5f": 66.5,
+            "best_4f": 52.2,
+            "best_1f": 11.8,
+            "recent": [
+              {
+                "date": "20260921",
+                "times": {
+                  "five_f": 80.3,
+                  "four_f": 66.9,
+                  "lap1": 16.4
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 60.7,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 69.3,
+                  "four_f": 54.2,
+                  "lap1": 11.9
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 73.3,
+                  "four_f": 56.1,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 62.2,
+                  "lap1": 14.4
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 6,
+          "frame_no": 6,
+          "horse_name": "ベルジャンブ",
+          "jockey_name": "吉村誠之",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "インディチャンプ",
+          "slope": {
+            "count": 14,
+            "latest": "20260924",
+            "best_4f": 53.5,
+            "best_3f": 38.4,
+            "best_1f": 12.2,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 54.1,
+                  "three_f": 39.0,
+                  "lap1": 12.2
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 60.8,
+                  "three_f": 44.6,
+                  "lap1": 14.9
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 67.7,
+                  "three_f": 49.1,
+                  "lap1": 16.3
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 66.0,
+                  "three_f": 48.4,
+                  "lap1": 15.5
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 68.0,
+                  "three_f": 49.9,
+                  "lap1": 15.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 3,
+            "latest": "20260916",
+            "best_5f": 69.3,
+            "best_4f": 54.4,
+            "best_1f": 11.8,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 69.3,
+                  "four_f": 54.6,
+                  "lap1": 11.9
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 70.7,
+                  "four_f": 54.4,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260801",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 74.8,
+                  "lap1": 17.2
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 7,
+          "frame_no": 7,
+          "horse_name": "ジゼルアリーナ",
+          "jockey_name": "田山旺佑",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ミスターメロディ",
+          "slope": {
+            "count": 16,
+            "latest": "20260926",
+            "best_4f": 55.3,
+            "best_3f": 40.2,
+            "best_1f": 12.9,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 71.3,
+                  "three_f": 52.0,
+                  "lap1": 17.4
+                }
+              },
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 55.7,
+                  "three_f": 40.6,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 59.0,
+                  "three_f": 42.0,
+                  "lap1": 13.6
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 66.9,
+                  "three_f": 48.3,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 61.4,
+                  "three_f": 45.8,
+                  "lap1": 15.2
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 2,
+            "latest": "20260917",
+            "best_5f": 67.8,
+            "best_4f": 53.2,
+            "best_1f": 12.2,
+            "recent": [
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 67.8,
+                  "four_f": 53.2,
+                  "lap1": 12.2
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 74.5,
+                  "lap1": 16.1
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 10,
+          "frame_no": 8,
+          "horse_name": "チョウサクラ",
+          "jockey_name": "田口貫太",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "ビッグアーサー",
+          "slope": {
+            "count": 19,
+            "latest": "20260926",
+            "best_4f": 54.5,
+            "best_3f": 40.2,
+            "best_1f": 13.8,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 67.3,
+                  "three_f": 48.9,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260925",
+                "times": {
+                  "four_f": 65.9,
+                  "three_f": 47.4,
+                  "lap1": 15.1
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 55.2,
+                  "three_f": 40.5,
+                  "lap1": 14.1
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 65.3,
+                  "three_f": 47.5,
+                  "lap1": 15.7
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 69.3,
+                  "three_f": 50.5,
+                  "lap1": 16.3
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 6,
+            "latest": "20260917",
+            "best_5f": 69.8,
+            "best_4f": 54.1,
+            "best_1f": 12.0,
+            "recent": [
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 69.8,
+                  "four_f": 54.1,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 89.9,
+                  "four_f": 70.8,
+                  "lap1": 15.6
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 70.4,
+                  "four_f": 55.5,
+                  "lap1": 13.4
+                }
+              },
+              {
+                "date": "20260902",
+                "times": {
+                  "five_f": 88.4,
+                  "four_f": 69.6,
+                  "lap1": 16.1
+                }
+              },
+              {
+                "date": "20260825",
+                "times": {
+                  "five_f": 107.2,
+                  "four_f": 84.7,
+                  "lap1": 22.2
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "race_id": "2026092709040906",
+      "date": "20260927",
+      "course": "阪神",
+      "race_no": 6,
+      "race_name": "6R",
+      "surface": "ダート",
+      "distance_m": 1800,
+      "horses": [
+        {
+          "horse_no": 7,
+          "frame_no": 4,
+          "horse_name": "アメリカンステラ",
+          "jockey_name": "川田将雅",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "Into Mischief",
+          "slope": {
+            "count": 35,
+            "latest": "20260926",
+            "best_4f": 54.1,
+            "best_3f": 39.4,
+            "best_1f": 12.3,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 60.6,
+                  "three_f": 45.5,
+                  "lap1": 14.5
+                }
+              },
+              {
+                "date": "20260925",
+                "times": {
+                  "four_f": 63.0,
+                  "three_f": 46.7,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 54.1,
+                  "three_f": 39.4,
+                  "lap1": 12.3
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 64.1,
+                  "three_f": 47.7,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 61.1,
+                  "three_f": 45.6,
+                  "lap1": 15.8
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 3,
+            "latest": "20260921",
+            "best_5f": 66.5,
+            "best_4f": 52.0,
+            "best_1f": 11.2,
+            "recent": [
+              {
+                "date": "20260921",
+                "times": {
+                  "five_f": 79.5,
+                  "four_f": 63.5,
+                  "lap1": 14.9
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 69.1,
+                  "four_f": 53.5,
+                  "lap1": 11.2
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 66.5,
+                  "four_f": 52.0,
+                  "lap1": 12.1
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 1,
+          "frame_no": 1,
+          "horse_name": "コンヴィヴィアル",
+          "jockey_name": "池添謙一",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "Charlatan",
+          "slope": {
+            "count": 17,
+            "latest": "20260926",
+            "best_4f": 52.6,
+            "best_3f": 38.2,
+            "best_1f": 12.9,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 78.9,
+                  "three_f": 59.4,
+                  "lap1": 19.1
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 67.9,
+                  "three_f": 50.2,
+                  "lap1": 16.0
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 59.9,
+                  "three_f": 44.2,
+                  "lap1": 14.8
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 69.6,
+                  "three_f": 49.4,
+                  "lap1": 15.7
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "four_f": 55.3,
+                  "three_f": 40.5,
+                  "lap1": 13.1
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 8,
+            "latest": "20260924",
+            "best_5f": 67.9,
+            "best_4f": 52.8,
+            "best_1f": 11.8,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 70.7,
+                  "four_f": 54.7,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 92.9,
+                  "lap1": 21.5
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 102.4,
+                  "four_f": 78.1,
+                  "lap1": 17.8
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 67.9,
+                  "four_f": 52.8,
+                  "lap1": 12.2
+                }
+              },
+              {
+                "date": "20260908",
+                "times": {
+                  "five_f": 89.2,
+                  "four_f": 68.8,
+                  "lap1": 16.0
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 13,
+          "frame_no": 7,
+          "horse_name": "テムスターオー",
+          "jockey_name": "Ｍ．デム",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "シニスターミニスター",
+          "slope": {
+            "count": 13,
+            "latest": "20260923",
+            "best_4f": 53.7,
+            "best_3f": 39.0,
+            "best_1f": 13.1,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 67.1,
+                  "three_f": 48.8,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 57.5,
+                  "three_f": 42.2,
+                  "lap1": 13.8
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 66.7,
+                  "three_f": 49.6,
+                  "lap1": 16.4
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 63.0,
+                  "three_f": 47.3,
+                  "lap1": 15.7
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "four_f": 64.5,
+                  "three_f": 48.5,
+                  "lap1": 14.8
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 7,
+            "latest": "20260924",
+            "best_5f": 67.3,
+            "best_4f": 52.0,
+            "best_1f": 11.5,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 68.7,
+                  "four_f": 53.4,
+                  "lap1": 11.6
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 68.3,
+                  "four_f": 52.7,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 67.3,
+                  "four_f": 52.0,
+                  "lap1": 11.5
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 83.1,
+                  "four_f": 66.0,
+                  "lap1": 13.4
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 73.4,
+                  "four_f": 56.1,
+                  "lap1": 12.7
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 12,
+          "frame_no": 6,
+          "horse_name": "ファーストステイト",
+          "jockey_name": "北村友一",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "オルフェーヴル",
+          "slope": {
+            "count": 16,
+            "latest": "20260926",
+            "best_4f": 56.0,
+            "best_3f": 40.7,
+            "best_1f": 12.8,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 64.5,
+                  "three_f": 47.3,
+                  "lap1": 15.6
+                }
+              },
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 56.0,
+                  "three_f": 40.7,
+                  "lap1": 12.8
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 66.0,
+                  "three_f": 48.2,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 57.9,
+                  "three_f": 43.4,
+                  "lap1": 14.1
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 66.8,
+                  "three_f": 49.6,
+                  "lap1": 16.6
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 3,
+            "latest": "20260918",
+            "best_5f": 66.8,
+            "best_4f": 52.1,
+            "best_1f": 11.6,
+            "recent": [
+              {
+                "date": "20260918",
+                "times": {
+                  "five_f": 66.8,
+                  "four_f": 52.1,
+                  "lap1": 11.6
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 71.3,
+                  "four_f": 55.6,
+                  "lap1": 12.4
+                }
+              },
+              {
+                "date": "20260908",
+                "times": {
+                  "five_f": 90.4,
+                  "four_f": 71.7,
+                  "lap1": 16.9
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 4,
+          "frame_no": 2,
+          "horse_name": "オメガマサヤ",
+          "jockey_name": "斎藤新",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "オメガパフューム",
+          "slope": {
+            "count": 12,
+            "latest": "20260923",
+            "best_4f": 54.9,
+            "best_3f": 40.8,
+            "best_1f": 13.1,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 66.5,
+                  "three_f": 51.5,
+                  "lap1": 16.9
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 58.2,
+                  "three_f": 43.7,
+                  "lap1": 14.4
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 69.4,
+                  "three_f": 51.4,
+                  "lap1": 17.3
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "four_f": 66.7,
+                  "three_f": 48.8,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 56.0,
+                  "three_f": 40.9,
+                  "lap1": 13.1
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 8,
+            "latest": "20260924",
+            "best_5f": 67.4,
+            "best_4f": 51.7,
+            "best_1f": 12.0,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 67.4,
+                  "four_f": 51.7,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 68.3,
+                  "four_f": 54.4,
+                  "lap1": 12.4
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 83.7,
+                  "four_f": 64.1,
+                  "lap1": 14.6
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 114.6,
+                  "four_f": 89.0,
+                  "lap1": 20.7
+                }
+              },
+              {
+                "date": "20260908",
+                "times": {
+                  "five_f": 84.6,
+                  "four_f": 65.3,
+                  "lap1": 14.4
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 6,
+          "frame_no": 3,
+          "horse_name": "ハレムスビ",
+          "jockey_name": "今村聖奈",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ダノンレジェンド",
+          "slope": {
+            "count": 9,
+            "latest": "20260926",
+            "best_4f": 56.2,
+            "best_3f": 41.9,
+            "best_1f": 13.3,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 69.4,
+                  "three_f": 51.7,
+                  "lap1": 16.5
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 56.2,
+                  "three_f": 41.9,
+                  "lap1": 13.3
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 64.3,
+                  "three_f": 47.0,
+                  "lap1": 15.2
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 65.9,
+                  "three_f": 48.3,
+                  "lap1": 15.3
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "four_f": 60.6,
+                  "three_f": 45.0,
+                  "lap1": 14.5
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 4,
+            "latest": "20260924",
+            "best_5f": 67.7,
+            "best_4f": 52.8,
+            "best_1f": 11.6,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 67.7,
+                  "four_f": 52.8,
+                  "lap1": 11.6
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 68.3,
+                  "four_f": 53.3,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 69.2,
+                  "four_f": 53.7,
+                  "lap1": 11.9
+                }
+              },
+              {
+                "date": "20260903",
+                "times": {
+                  "five_f": 76.4,
+                  "four_f": 60.5,
+                  "lap1": 14.1
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 8,
+          "frame_no": 4,
+          "horse_name": "ロードスピアヘッド",
+          "jockey_name": "田山旺佑",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ロードカナロア",
+          "slope": {
+            "count": 14,
+            "latest": "20260923",
+            "best_4f": 53.0,
+            "best_3f": 38.5,
+            "best_1f": 12.3,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 53.0,
+                  "three_f": 38.5,
+                  "lap1": 12.3
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 79.1,
+                  "three_f": 58.3,
+                  "lap1": 18.8
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 72.9,
+                  "three_f": 53.4,
+                  "lap1": 17.9
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 71.8,
+                  "three_f": 53.1,
+                  "lap1": 17.7
+                }
+              },
+              {
+                "date": "20260911",
+                "times": {
+                  "four_f": 74.0,
+                  "three_f": 54.3,
+                  "lap1": 18.5
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 10,
+            "latest": "20260919",
+            "best_5f": 66.3,
+            "best_4f": 52.0,
+            "best_1f": 11.5,
+            "recent": [
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 66.8,
+                  "four_f": 52.4,
+                  "lap1": 11.5
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 69.6,
+                  "four_f": 53.4,
+                  "lap1": 11.7
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 84.2,
+                  "four_f": 66.7,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 67.8,
+                  "four_f": 52.9,
+                  "lap1": 0.0
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 66.3,
+                  "four_f": 52.0,
+                  "lap1": 12.5
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 11,
+          "frame_no": 6,
+          "horse_name": "イグニアスロック",
+          "jockey_name": "吉村誠之",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "マインドユアビスケッツ",
+          "slope": {
+            "count": 14,
+            "latest": "20260924",
+            "best_4f": 54.7,
+            "best_3f": 39.7,
+            "best_1f": 12.8,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 55.9,
+                  "three_f": 40.0,
+                  "lap1": 12.8
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 57.7,
+                  "three_f": 40.4,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 68.2,
+                  "three_f": 49.4,
+                  "lap1": 15.4
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 67.6,
+                  "three_f": 49.3,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 65.9,
+                  "three_f": 48.2,
+                  "lap1": 14.8
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 2,
+            "latest": "20260916",
+            "best_5f": 65.8,
+            "best_4f": 51.8,
+            "best_1f": 12.8,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 65.8,
+                  "four_f": 51.8,
+                  "lap1": 13.0
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 71.8,
+                  "four_f": 56.0,
+                  "lap1": 12.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 14,
+          "frame_no": 7,
+          "horse_name": "ノヴァアクレイム",
+          "jockey_name": "松本大輝",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "Practical Joke",
+          "slope": {
+            "count": 16,
+            "latest": "20260926",
+            "best_4f": 53.7,
+            "best_3f": 39.4,
+            "best_1f": 12.8,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 69.8,
+                  "three_f": 51.3,
+                  "lap1": 17.0
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 53.7,
+                  "three_f": 39.4,
+                  "lap1": 12.8
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 54.0,
+                  "three_f": 39.9,
+                  "lap1": 13.4
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 67.4,
+                  "three_f": 49.6,
+                  "lap1": 16.5
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 66.0,
+                  "three_f": 48.1,
+                  "lap1": 16.5
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 3,
+            "latest": "20260916",
+            "best_5f": 69.2,
+            "best_4f": 54.0,
+            "best_1f": 12.1,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 69.2,
+                  "four_f": 54.0,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 71.2,
+                  "four_f": 56.3,
+                  "lap1": 12.6
+                }
+              },
+              {
+                "date": "20260905",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 80.6,
+                  "lap1": 18.7
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 10,
+          "frame_no": 5,
+          "horse_name": "スペクトリオン",
+          "jockey_name": "西塚洸二",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "デクラレーションオブウォー",
+          "slope": {
+            "count": 21,
+            "latest": "20260926",
+            "best_4f": 54.6,
+            "best_3f": 39.2,
+            "best_1f": 12.5,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 66.4,
+                  "three_f": 47.3,
+                  "lap1": 15.0
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 54.6,
+                  "three_f": 39.2,
+                  "lap1": 12.5
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 60.8,
+                  "three_f": 44.0,
+                  "lap1": 14.3
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "four_f": 55.8,
+                  "three_f": 40.1,
+                  "lap1": 12.7
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "four_f": 77.9,
+                  "three_f": 56.7,
+                  "lap1": 18.6
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 6,
+            "latest": "20260916",
+            "best_5f": 67.2,
+            "best_4f": 53.3,
+            "best_1f": 11.7,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 83.7,
+                  "lap1": 17.8
+                }
+              },
+              {
+                "date": "20260910",
+                "times": {
+                  "five_f": 67.2,
+                  "four_f": 53.3,
+                  "lap1": 12.5
+                }
+              },
+              {
+                "date": "20260908",
+                "times": {
+                  "five_f": 96.1,
+                  "four_f": 70.9,
+                  "lap1": 16.4
+                }
+              },
+              {
+                "date": "20260905",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 88.4,
+                  "lap1": 19.1
+                }
+              },
+              {
+                "date": "20260902",
+                "times": {
+                  "five_f": 69.4,
+                  "four_f": 53.7,
+                  "lap1": 11.7
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 9,
+          "frame_no": 5,
+          "horse_name": "メイショウシガニー",
+          "jockey_name": "角田大和",
+          "sex": "2",
+          "age": 2,
+          "sire_name": "モーリス",
+          "slope": {
+            "count": 14,
+            "latest": "20260926",
+            "best_4f": 55.2,
+            "best_3f": 40.7,
+            "best_1f": 13.2,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 68.4,
+                  "three_f": 49.3,
+                  "lap1": 16.3
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 65.1,
+                  "three_f": 47.8,
+                  "lap1": 15.8
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 67.4,
+                  "three_f": 49.0,
+                  "lap1": 16.1
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 66.0,
+                  "three_f": 48.3,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 66.0,
+                  "three_f": 48.3,
+                  "lap1": 16.1
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 4,
+            "latest": "20260924",
+            "best_5f": 68.1,
+            "best_4f": 52.4,
+            "best_1f": 11.3,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 68.1,
+                  "four_f": 52.4,
+                  "lap1": 11.3
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 68.6,
+                  "four_f": 53.4,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260915",
+                "times": {
+                  "five_f": 88.7,
+                  "four_f": 70.4,
+                  "lap1": 16.9
+                }
+              },
+              {
+                "date": "20260906",
+                "times": {
+                  "five_f": 84.1,
+                  "four_f": 65.7,
+                  "lap1": 15.7
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 16,
+          "frame_no": 8,
+          "horse_name": "ヤマニンガルブ",
+          "jockey_name": "田口貫太",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ルヴァンスレーヴ",
+          "slope": {
+            "count": 4,
+            "latest": "20260926",
+            "best_4f": 58.9,
+            "best_3f": 42.9,
+            "best_1f": 13.9,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 68.3,
+                  "three_f": 50.1,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 64.5,
+                  "three_f": 47.7,
+                  "lap1": 15.1
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 75.5,
+                  "three_f": 55.9,
+                  "lap1": 17.7
+                }
+              },
+              {
+                "date": "20260830",
+                "times": {
+                  "four_f": 58.9,
+                  "three_f": 42.9,
+                  "lap1": 13.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 8,
+            "latest": "20260924",
+            "best_5f": 69.7,
+            "best_4f": 54.3,
+            "best_1f": 12.0,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 72.6,
+                  "four_f": 57.1,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "five_f": 78.2,
+                  "four_f": 61.3,
+                  "lap1": 13.3
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 69.7,
+                  "four_f": 54.3,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 75.6,
+                  "four_f": 57.8,
+                  "lap1": 12.6
+                }
+              },
+              {
+                "date": "20260906",
+                "times": {
+                  "five_f": 75.3,
+                  "four_f": 59.0,
+                  "lap1": 13.0
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 15,
+          "frame_no": 8,
+          "horse_name": "ツーエムブレード",
+          "jockey_name": "松若風馬",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "デクラレーションオブウォー",
+          "slope": {
+            "count": 12,
+            "latest": "20260926",
+            "best_4f": 55.0,
+            "best_3f": 40.2,
+            "best_1f": 12.7,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 69.1,
+                  "three_f": 49.8,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260924",
+                "times": {
+                  "four_f": 55.7,
+                  "three_f": 40.3,
+                  "lap1": 12.7
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 66.3,
+                  "three_f": 48.8,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 55.0,
+                  "three_f": 40.2,
+                  "lap1": 13.2
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 67.4,
+                  "three_f": 48.5,
+                  "lap1": 15.3
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 9,
+            "latest": "20260916",
+            "best_5f": 66.3,
+            "best_4f": 51.8,
+            "best_1f": 12.9,
+            "recent": [
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 66.3,
+                  "four_f": 51.8,
+                  "lap1": 12.9
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 171.3,
+                  "four_f": 137.0,
+                  "lap1": 33.3
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 184.5,
+                  "four_f": 144.7,
+                  "lap1": 34.6
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 245.7,
+                  "lap1": 60.0
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 72.2,
+                  "four_f": 57.4,
+                  "lap1": 14.9
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 2,
+          "frame_no": 1,
+          "horse_name": "メイショウラリマー",
+          "jockey_name": "太宰啓介",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "ビッグアーサー",
+          "slope": {
+            "count": 33,
+            "latest": "20260926",
+            "best_4f": 56.8,
+            "best_3f": 41.2,
+            "best_1f": 13.6,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 68.7,
+                  "three_f": 50.7,
+                  "lap1": 16.6
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 63.1,
+                  "three_f": 47.4,
+                  "lap1": 15.9
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 70.9,
+                  "three_f": 51.2,
+                  "lap1": 17.3
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "four_f": 69.9,
+                  "three_f": 51.6,
+                  "lap1": 16.7
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 66.6,
+                  "three_f": 49.7,
+                  "lap1": 16.6
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 6,
+            "latest": "20260923",
+            "best_5f": 65.9,
+            "best_4f": 51.4,
+            "best_1f": 11.5,
+            "recent": [
+              {
+                "date": "20260923",
+                "times": {
+                  "five_f": 65.9,
+                  "four_f": 51.4,
+                  "lap1": 11.8
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 67.7,
+                  "four_f": 52.5,
+                  "lap1": 11.5
+                }
+              },
+              {
+                "date": "20260909",
+                "times": {
+                  "five_f": 67.9,
+                  "four_f": 52.6,
+                  "lap1": 12.3
+                }
+              },
+              {
+                "date": "20260902",
+                "times": {
+                  "five_f": 68.9,
+                  "four_f": 53.5,
+                  "lap1": 11.6
+                }
+              },
+              {
+                "date": "20260826",
+                "times": {
+                  "five_f": 72.0,
+                  "four_f": 56.8,
+                  "lap1": 12.4
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 3,
+          "frame_no": 2,
+          "horse_name": "プライムウィザード",
+          "jockey_name": "国分恭介",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "チュウワウィザード",
+          "slope": {
+            "count": 19,
+            "latest": "20260926",
+            "best_4f": 55.1,
+            "best_3f": 40.5,
+            "best_1f": 13.1,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 67.6,
+                  "three_f": 49.8,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 66.9,
+                  "three_f": 49.6,
+                  "lap1": 16.2
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 57.5,
+                  "three_f": 42.5,
+                  "lap1": 14.4
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 72.5,
+                  "three_f": 52.9,
+                  "lap1": 17.5
+                }
+              },
+              {
+                "date": "20260918",
+                "times": {
+                  "four_f": 67.1,
+                  "three_f": 49.8,
+                  "lap1": 16.2
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 7,
+            "latest": "20260924",
+            "best_5f": 68.0,
+            "best_4f": 53.6,
+            "best_1f": 12.0,
+            "recent": [
+              {
+                "date": "20260924",
+                "times": {
+                  "five_f": 69.1,
+                  "four_f": 54.7,
+                  "lap1": 12.0
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 84.4,
+                  "four_f": 67.4,
+                  "lap1": 15.0
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "five_f": 68.0,
+                  "four_f": 53.6,
+                  "lap1": 12.1
+                }
+              },
+              {
+                "date": "20260912",
+                "times": {
+                  "five_f": 86.9,
+                  "four_f": 70.2,
+                  "lap1": 17.7
+                }
+              },
+              {
+                "date": "20260905",
+                "times": {
+                  "five_f": 91.1,
+                  "four_f": 72.8,
+                  "lap1": 17.0
+                }
+              }
+            ]
+          }
+        },
+        {
+          "horse_no": 5,
+          "frame_no": 3,
+          "horse_name": "サンライズブレイド",
+          "jockey_name": "柴田裕一",
+          "sex": "1",
+          "age": 2,
+          "sire_name": "イスラボニータ",
+          "slope": {
+            "count": 25,
+            "latest": "20260926",
+            "best_4f": 54.0,
+            "best_3f": 40.1,
+            "best_1f": 13.1,
+            "recent": [
+              {
+                "date": "20260926",
+                "times": {
+                  "four_f": 66.2,
+                  "three_f": 48.0,
+                  "lap1": 15.6
+                }
+              },
+              {
+                "date": "20260923",
+                "times": {
+                  "four_f": 54.0,
+                  "three_f": 40.1,
+                  "lap1": 13.6
+                }
+              },
+              {
+                "date": "20260921",
+                "times": {
+                  "four_f": 65.3,
+                  "three_f": 48.2,
+                  "lap1": 15.3
+                }
+              },
+              {
+                "date": "20260920",
+                "times": {
+                  "four_f": 64.5,
+                  "three_f": 47.6,
+                  "lap1": 15.7
+                }
+              },
+              {
+                "date": "20260916",
+                "times": {
+                  "four_f": 65.2,
+                  "three_f": 48.1,
+                  "lap1": 15.9
+                }
+              }
+            ]
+          },
+          "wood": {
+            "count": 7,
+            "latest": "20260921",
+            "best_5f": 66.5,
+            "best_4f": 51.9,
+            "best_1f": 12.5,
+            "recent": [
+              {
+                "date": "20260921",
+                "times": {
+                  "five_f": 0.0,
+                  "four_f": 68.3,
+                  "lap1": 15.6
+                }
+              },
+              {
+                "date": "20260919",
+                "times": {
+                  "five_f": 88.3,
+                  "four_f": 69.5,
+                  "lap1": 15.1
+                }
+              },
+              {
+                "date": "20260917",
+                "times": {
+                  "five_f": 66.5,
+                  "four_f": 51.9,
+                  "lap1": 12.5
+                }
+              },
+              {
+                "date": "20260913",
+                "times": {
+                  "five_f": 78.6,
+                  "four_f": 62.0,
+                  "lap1": 13.4
+                }
+              },
+              {
+                "date": "20260902",
+                "times": {
+                  "five_f": 85.2,
+                  "four_f": 67.4,
+                  "lap1": 14.6
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

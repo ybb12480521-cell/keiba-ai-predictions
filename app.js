@@ -42,8 +42,8 @@ function renderRaceIntegrated(){
     const cell=document.createElement('td');
     cell.className='longshot-cell';
     cell.innerHTML=candidate
-      ?`<span class="longshot-badge"><b>候補${candidate.candidate_rank}位</b><small>逆転 ${(Number(candidate.score)*100).toFixed(1)}</small></span>`
-      :'<span class="longshot-none">—</span>';
+      ?'<span class="longshot-badge"><b>穴馬候補あり</b></span>'
+      :'<span class="longshot-none">穴馬候補なし</span>';
     row.appendChild(cell);
   });
 }

@@ -40,3 +40,4 @@ table{border-collapse:separate;border-spacing:0;width:100%;min-width:690px}th,td
   #content>.table th:nth-child(7),#content>.table td:nth-child(7){width:75px}
   #content>.table th:nth-child(8),#content>.table td:nth-child(8){width:80px;text-align:center}
 }
+.overbet-heading{color:#8b2d2d!important}.overbet-cell{min-width:104px}.overbet-badge{display:inline-flex;flex-direction:column;gap:2px;border:1px solid #e2b3b3;background:#fff0f0;color:#8b2d2d;border-radius:8px;padding:6px 8px;white-space:nowrap}.overbet-badge b{font-size:11px}.overbet-badge small{font-size:9px}

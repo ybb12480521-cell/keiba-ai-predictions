@@ -1,5 +1,5 @@
 const params=new URLSearchParams(location.search);
-const state={data:null,training:null,longshots:null,mode:params.get('mode')==='longshot'?'longshot':'h95',date:null,course:null,race:params.get('race_id')};
+const state={data:null,training:null,longshots:null,overbets:null,mode:params.get('mode')==='longshot'?'longshot':'h95',date:null,course:null,race:params.get('race_id')};
 const fmtDate=d=>`${Number(d.slice(4,6))}月${Number(d.slice(6))}日`;
 const fmtTime=t=>t&&t.length===4?`${t.slice(0,2)}:${t.slice(2)}`:'未定';
 const pct=v=>`${(v*100).toFixed(2)}%`;
@@ -31,11 +31,17 @@ function renderRaceIntegrated(){
   const race=state.data.races.find(x=>x.race_id===state.race);
   const longshotRace=state.longshots?.races?.find(x=>x.race_id===state.race);
   const candidates=new Map((longshotRace?.candidates||[]).map(x=>[Number(x.horse_no),x]));
+  const overbetRace=state.overbets?.races?.find(x=>x.race_id===state.race);
+  const overbets=new Map((overbetRace?.candidates||[]).map(x=>[Number(x.horse_no),x]));
   const table=document.querySelector('#content>.table table');
   if(!table)return;
   const heading=document.createElement('th');
   heading.textContent=candidates.size?'穴馬候補あり':'穴馬候補なし';
   table.querySelector('thead tr')?.appendChild(heading);
+  const riskHeading=document.createElement('th');
+  riskHeading.textContent=overbets.size?'危険な人気馬あり':'危険な人気馬なし';
+  riskHeading.className='overbet-heading';
+  table.querySelector('thead tr')?.appendChild(riskHeading);
   const runners=race.runners.slice().sort((a,b)=>a.boost_rank-b.boost_rank);
   table.querySelectorAll('tbody tr').forEach((row,index)=>{
     const candidate=candidates.get(Number(runners[index]?.horse_no));
@@ -45,11 +51,18 @@ function renderRaceIntegrated(){
       ?`<span class="longshot-badge"><b>候補${candidate.candidate_rank}位</b><small>逆転 ${(Number(candidate.score)*100).toFixed(1)}</small></span>`
       :'<span class="longshot-none">—</span>';
     row.appendChild(cell);
+    const risk=overbets.get(Number(runners[index]?.horse_no));
+    const riskCell=document.createElement('td');
+    riskCell.className='overbet-cell';
+    riskCell.innerHTML=risk
+      ?`<span class="overbet-badge"><b>過剰人気</b><small>期待差 +${(Number(risk.score)*100).toFixed(1)}pt</small></span>`
+      :'<span class="longshot-none">—</span>';
+    row.appendChild(riskCell);
   });
 }
 function addTrainingButton(){if(!state.training?.races?.some(x=>x.race_id===state.race))return;const head=document.querySelector('.race-head');head?.insertAdjacentHTML('afterend',`<a class="training-button" href="training.html?race_id=${encodeURIComponent(state.race)}">調教内容を別画面で見る</a>`)}
 function renderTrainingShortcuts(){const area=document.getElementById('training-shortcuts'),races=state.training?.races||[];if(!races.length){area.hidden=true;return}area.hidden=false;area.innerHTML=`<div><b>新馬戦の調教</b><small>対象レースを選ぶと坂路・ウッド時計を確認できます</small></div><nav>${races.map(r=>`<a href="training.html?race_id=${encodeURIComponent(r.race_id)}">${Number(r.date.slice(4,6))}/${Number(r.date.slice(6,8))} ${html(r.course)}${r.race_no}R</a>`).join('')}</nav>`}
-function render(){renderNav();document.querySelector('.hero .model').textContent='H95 Duo｜H95B（短距離補正込み）＋H95L＋穴馬候補';renderTrainingShortcuts();renderRaceIntegrated();addTrainingButton();history.replaceState(null,'',`?race_id=${encodeURIComponent(state.race)}`)}
+function render(){renderNav();document.querySelector('.hero .model').textContent='H95 Duo｜H95B（短距離補正込み）＋H95L＋穴馬候補＋危険な人気馬';renderTrainingShortcuts();renderRaceIntegrated();addTrainingButton();history.replaceState(null,'',`?race_id=${encodeURIComponent(state.race)}`)}
 function applyLatest(data){(data.races||[]).forEach(live=>{const race=state.data.races.find(r=>r.race_id===live.race_id);if(!race)return;race.track_condition=live.track_condition;race.weather=live.weather;(live.odds||[]).forEach(item=>{const runner=race.runners.find(x=>Number(x.horse_no)===Number(item.horse_no));if(runner){runner.odds=item.win_odds;runner.odds_observed_at=item.observed_at}})});render()}
 const latestCacheKey='keibaLatestRaceDataV1';
 function saveLatest(data){
@@ -87,4 +100,4 @@ async function fetchLatest(){const button=document.getElementById('latest-button
 document.getElementById('latest-button').addEventListener('click',fetchLatest);
 document.querySelectorAll('#model-switch button').forEach(button=>button.addEventListener('click',()=>{state.mode=button.dataset.mode;render()}));
 refreshKeyState();
-Promise.all([fetch('predictions.json',{cache:'no-store'}),fetch('training.json',{cache:'no-store'}),fetch('longshots.json',{cache:'no-store'})]).then(async responses=>{if(!responses[0].ok)throw Error(responses[0].status);state.data=await responses[0].json();state.training=responses[1].ok?await responses[1].json():{races:[]};state.longshots=responses[2].ok?await responses[2].json():{races:[]};document.getElementById('updated').textContent=`予想データ更新 ${new Date(state.data.generated_at).toLocaleString('ja-JP')}`;document.getElementById('latest-status').textContent=window.KEIBA_API_BASE_URL?'Windows APIへ接続できます':'Windows APIのHTTPS URLが未設定です';render();restoreLatest()}).catch(()=>document.getElementById('content').innerHTML='<p class="loading">予想データを読み込めませんでした。更新後に再読み込みしてください。</p>');
+Promise.all([fetch('predictions.json',{cache:'no-store'}),fetch('training.json',{cache:'no-store'}),fetch('longshots.json',{cache:'no-store'}),fetch('overbets.json',{cache:'no-store'})]).then(async responses=>{if(!responses[0].ok)throw Error(responses[0].status);state.data=await responses[0].json();state.training=responses[1].ok?await responses[1].json():{races:[]};state.longshots=responses[2].ok?await responses[2].json():{races:[]};state.overbets=responses[3].ok?await responses[3].json():{races:[]};document.getElementById('updated').textContent=`予想データ更新 ${new Date(state.data.generated_at).toLocaleString('ja-JP')}`;document.getElementById('latest-status').textContent=window.KEIBA_API_BASE_URL?'Windows APIへ接続できます':'Windows APIのHTTPS URLが未設定です';render();restoreLatest()}).catch(()=>document.getElementById('content').innerHTML='<p class="loading">予想データを読み込めませんでした。更新後に再読み込みしてください。</p>');

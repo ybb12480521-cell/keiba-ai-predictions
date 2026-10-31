@@ -8,7 +8,7 @@
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
   <title>H95 Duo 競馬AI予想</title>
-  <link rel="stylesheet" href="styles.css?v=h95-duo-cache-1">
+  <link rel="stylesheet" href="styles.css?v=h95-duo-predict-1">
 </head>
 <body>
   <header><div class="brand"><span>H</span> H95 Duo AI予想</div><div id="updated">更新確認中</div></header>
@@ -17,6 +17,7 @@
     <section class="refresh-panel" aria-label="最新情報の取得">
       <div class="api-key-row"><input id="api-key" type="password" autocomplete="off" placeholder="Windows APIキーを入力" aria-label="Windows APIキー"><button id="save-api-key" type="button">このタブに保存</button><button id="clear-api-key" type="button">消去</button></div>
       <button id="latest-button" class="refresh-button" type="button">全レースの最新情報を取得</button>
+      <button id="predict-button" class="refresh-button predict-button" type="button">最新の予想をし直す</button>
       <small id="latest-status" role="status">Windows APIへの接続待ち</small>
     </section>
     <section id="latest-results" class="latest-results" aria-live="polite" hidden></section>
@@ -27,7 +28,7 @@
     <section id="content" aria-live="polite"><p class="loading">予想データを読み込んでいます…</p></section>
     <footer>予測は的中や利益を保証しません。オッズ・出走情報は取得時点のものです。</footer>
   </main>
-  <script src="api-config.js?v=h95-duo-cache-1"></script>
-  <script src="app.js?v=h95-duo-cache-1"></script>
+  <script src="api-config.js?v=h95-duo-predict-1"></script>
+  <script src="app.js?v=h95-duo-predict-1"></script>
 </body>
 </html>

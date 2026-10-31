@@ -48,14 +48,14 @@ function renderRaceIntegrated(){
     const cell=document.createElement('td');
     cell.className='longshot-cell';
     cell.innerHTML=candidate
-      ?`<span class="longshot-badge"><b>候補${candidate.candidate_rank}位</b><small>逆転 ${(Number(candidate.score)*100).toFixed(1)}</small></span>`
+      ?`<span class="longshot-badge"><b>候補${candidate.candidate_rank}位</b><small>逆転 ${(Number(candidate.score)*100).toFixed(1)}</small></span><small class="candidate-reason">根拠：${html(candidate.reason||'総合適性が候補基準以上')}</small>`
       :'<span class="longshot-none">—</span>';
     row.appendChild(cell);
     const risk=overbets.get(Number(runners[index]?.horse_no));
     const riskCell=document.createElement('td');
     riskCell.className='overbet-cell';
     riskCell.innerHTML=risk
-      ?`<span class="overbet-badge"><b>過剰人気</b><small>期待差 +${(Number(risk.score)*100).toFixed(1)}pt</small></span>`
+      ?`<span class="overbet-badge"><b>過剰人気</b><small>期待差 +${(Number(risk.score)*100).toFixed(1)}pt</small></span><small class="candidate-reason">根拠：${html(risk.reason||'市場評価がAI評価を上回る')}</small>`
       :'<span class="longshot-none">—</span>';
     row.appendChild(riskCell);
   });
@@ -99,8 +99,8 @@ document.getElementById('clear-api-key').addEventListener('click',()=>{sessionSt
 async function fetchLatest(){const button=document.getElementById('latest-button'),status=document.getElementById('latest-status'),base=String(window.KEIBA_API_BASE_URL||'').replace(/\/$/,''),apiKey=storedApiKey(),resultArea=document.getElementById('latest-results');if(!base){status.textContent='最新情報を取得できませんでした';showLatestError('Cloudflare TunnelのURLが設定されていません。');return}if(!apiKey){status.textContent='最新情報を取得できませんでした';showLatestError('APIキーが入力されていません。入力後に「このタブに保存」を押してください。');keyInput.focus();return}button.disabled=true;button.textContent='最新情報を取得中…';status.textContent='最新情報を取得中…';resultArea.hidden=true;resultArea.innerHTML='';try{let response;try{response=await fetch(`${base}/api/latest`,{method:'POST',cache:'no-store',headers:{'Authorization':`Bearer ${apiKey}`,'Content-Type':'application/json'}})}catch(error){throw{kind:'tunnel',message:'Cloudflare Tunnelに接続できません。Windows側のFastAPIとTunnelを確認してください。'}}const contentType=response.headers.get('content-type')||'',data=contentType.includes('application/json')?await response.json().catch(()=>({})):{};if(response.status===401)throw{kind:'auth',message:'APIキーが一致しません。Windows側のAPIキーを確認してください。'};if(response.status===429)throw{kind:'rate',message:data.error||'60秒以内の連続実行はできません。少し待って再実行してください。'};if([522,523,524,530].includes(response.status))throw{kind:'tunnel',message:'Cloudflare Tunnelに接続できません。Tunnelを再起動してください。'};if(response.status===404&&String(data.error||'').includes('当日以降'))throw{kind:'schedule',message:'次回開催情報が未登録です。Windows側で出走情報を更新してください。'};if(!response.ok)throw{kind:'jvlink',message:`JV-Link取得失敗：${data.error||data.detail||`HTTP ${response.status}`}`};applyLatest(data);saveLatest(data);const odds=data.races.reduce((n,r)=>n+(r.odds||[]).length,0),retrieved=data.retrieved_at?new Date(data.retrieved_at).toLocaleString('ja-JP'):'時刻不明';resultArea.hidden=true;resultArea.innerHTML='';status.textContent=`取得成功・${data.races.length}レース・オッズ${odds}頭｜取得時刻 ${retrieved}`}catch(error){status.textContent='最新情報を取得できませんでした';showLatestError(error.message||'原因不明のエラーが発生しました。')}finally{button.disabled=false;button.textContent='全レースの最新情報を取得'}}
 document.getElementById('latest-button').addEventListener('click',fetchLatest);
 // Bump this key whenever the prediction payload's display schema changes.
-// V2 adds within-race jockey ranks to every jockey-suitability reason.
-const predictionCacheKey='keibaLatestPredictionsV2';
+// V3 adds compact suitability reasons and an explicit jockey distance band.
+const predictionCacheKey='keibaLatestPredictionsV3';
 const sleep=ms=>new Promise(resolve=>setTimeout(resolve,ms));
 function savePredictions(){try{localStorage.setItem(predictionCacheKey,JSON.stringify({saved_at:new Date().toISOString(),predictions:state.data,training:state.training,longshots:state.longshots,overbets:state.overbets}))}catch(error){console.warn('最新予想を端末へ保存できませんでした',error)}}
 function restorePredictions(){try{const cached=JSON.parse(localStorage.getItem(predictionCacheKey)||'null');if(!cached?.predictions?.races?.length)return false;const newest=[...new Set(cached.predictions.races.map(r=>r.date))].sort().at(-1);if(!newest||newest<jstToday()){localStorage.removeItem(predictionCacheKey);return false}const currentTime=Date.parse(state.data.generated_at||0),cachedTime=Date.parse(cached.predictions.generated_at||cached.saved_at||0);if(cachedTime<currentTime)return false;state.data=cached.predictions;state.training=cached.training||{races:[]};state.longshots=cached.longshots||{races:[]};state.overbets=cached.overbets||{races:[]};return true}catch(error){localStorage.removeItem(predictionCacheKey);return false}}
